@@ -1,4 +1,4 @@
-package SWERC;
+package SWERC.Clasificatorio;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

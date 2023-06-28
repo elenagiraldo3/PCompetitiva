@@ -1,7 +1,5 @@
 package AER.P600_699;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class P687 {

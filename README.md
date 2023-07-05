@@ -1,4 +1,5 @@
-# PCompetitiva
-Entrenamiento Programación Competitiva
+# Programación Competitiva
+Repositorio con problemas resueltos de Acepta el Reto y SPOJ en Java.
 
-Problemas de Acepta el Reto y SPOJ
+- [Acepta el reto](https://aceptaelreto.com/)
+- [SPOJ](https://www.spoj.com/)
